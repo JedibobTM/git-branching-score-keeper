@@ -1,5 +1,5 @@
 body {
-  font-family: sans-serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
 #main_content {
@@ -18,9 +18,9 @@ header {
 }
 
 .team1 {
-  background-color: gray;
+  background-color: red;
 }
 
 .team2 {
-  background-color: gray;
+  background-color: plum;
 }
